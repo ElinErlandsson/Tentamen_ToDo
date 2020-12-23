@@ -1,4 +1,4 @@
-import GetData from "./data.js"
+import Data from "./data.js"
 
 class UserInputForm {
     constructor() {
@@ -39,7 +39,8 @@ class UserInputForm {
     }
 
 }
-
+Data.api()
 const ui = new UserInputForm();
-GetData()
+
+
 
