@@ -1,6 +1,8 @@
 {
-    "dryClean": "Dry-clean",
-    "vacuum": "Vacuum",
-    "shopping": "Groceries shopping",
-    "shower": "Shower"
+    "tasks": [
+        "Dry-clean",
+        "Vacuum",
+        "Groceries shopping",
+        "Shower"
+    ]
 }
